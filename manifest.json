@@ -1,0 +1,11 @@
+{
+		"title": "SageMath Kurz",
+		"author": "Dominik Borovsky",
+		"collectionId": "nbsiteSample",
+		"pages": [
+			{
+				"title": "Oboznámenie so Sagom",
+				"url": "oboznamenie_so_sagom.html"
+			}
+		]
+	}
